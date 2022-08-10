@@ -1,6 +1,6 @@
  ## Olá 👋 eu sou o Diego. Desenvolvedor Front-End Jr se especializando em ReactJS
  
- 🌱 Estudando Reactjs, Nodejs, HTML, CSS, Javascript, Mongodb e Mysql
+ 🌱 Estudando Reactjs, Nodejs, HTML, CSS, Javascript, C#, .NET, Mongodb e Mysql.
 
 Estou focado nas principais tecnologias front-end atualmente, mas pretendo me tornar um desenvolvedor FullStack no futuro.
 
