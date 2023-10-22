@@ -1,8 +1,9 @@
  ## Olá 👋 eu sou o Diego. Analista e Desenvolvedor de Sistemas se especializando em Javascript e Python
  
- 🌱 Estudando Reactjs, Nodejs, HTML, CSS, Javascript, C#, .NET, Mongodb e Mysql.
+ 🌱 Estudando Reactjs, Nodejs, HTML, CSS, Javascript, Python, Power BI, Mongodb e Mysql.
 
-Estou focado nas principais tecnologias front-end atualmente, mas pretendo me tornar um desenvolvedor FullStack no futuro.
+Estou focado em desenvolvimento Web Fullstack principalmente com ReactJS no Front-end e NodeJS no Backend.
+A área de dados também é uma opção interessante por isso venho estudando Python com foco em automações e análise de dados.
 
 <div>
   <a href="https://github.com/diegodld">
