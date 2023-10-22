@@ -2,7 +2,7 @@
  
  🌱 Estudando Reactjs, Nodejs, HTML, CSS, Javascript, Python, Power BI, Mongodb e Mysql.
 
-Estou focado em desenvolvimento Web Fullstack principalmente com ReactJS no Frontend e NodeJS no Backend.
+Estou focado em desenvolvimento Web Fullstack principalmente com ReactJS no Frontend e NodeJS no Backend. <br>
 A área de dados também é uma opção interessante por isso venho estudando Python com foco em automações e análise de dados.
 
 <div>
