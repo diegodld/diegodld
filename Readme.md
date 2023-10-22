@@ -1,4 +1,4 @@
- ## Olá 👋 eu sou o Diego. Desenvolvedor Front-End Jr se especializando em ReactJS
+ ## Olá 👋 eu sou o Diego. Analista e Desenvolvedor de Sistemas se especializando em Javascript e Python
  
  🌱 Estudando Reactjs, Nodejs, HTML, CSS, Javascript, C#, .NET, Mongodb e Mysql.
 
